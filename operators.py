@@ -43,3 +43,4 @@ if total >= 40:
 else:
     print("Failed")
 
+
